@@ -35,6 +35,6 @@ describe("Init test for product update use case", () => {
 
     input.name = "";
 
-    await expect(productUpdateUseCase.execute(input)).rejects.toThrow("Name is required");
+    await expect(productUpdateUseCase.execute(input)).rejects.toThrow("product: Name is required");
   });
 });

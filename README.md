@@ -1,5 +1,12 @@
 ## FullCycle Clean Architecture
 
+* Conceitos básicos
+* Use cases
+* Api
+* Notification Pattern
+* Validação vs Acoplamento
+* Presenters
+
 ```bash
 # Init
 npm i typescript --save-dev
