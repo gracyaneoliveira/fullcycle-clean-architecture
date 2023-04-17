@@ -69,4 +69,7 @@ npm install sqlite3
 npm i express @types/express dotenv
 npm i nodemon
 npm i -D supertest @types/supertest
+
+# Yup validator
+npm i -S yup
 ```
